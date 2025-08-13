@@ -4,6 +4,7 @@ Using Wireshark to analyze packet
 # Wireshark Packet Analysis Project
 
 PROJECT OVERVIEW
+
 This project demonstrates how to capture and analyze network packets using **Wireshark**.  
 The goal was to capture live network traffic, filter for HTTP packets, and extract important details such as source/destination IPs and request methods.
 
